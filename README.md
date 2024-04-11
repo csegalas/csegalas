@@ -1,4 +1,4 @@
-## ✨ Hi, I am Corentin
+## ✨ Hi, I am Corentin Ségalas
 
 - 🔬 I am a research fellow in statistics at Bordeaux Population Health
 - 🔮 Working on building predictive models from longitudinal data
